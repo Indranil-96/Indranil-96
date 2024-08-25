@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" alt="indranil-96" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 💬 Ask me about **MERN**
 
